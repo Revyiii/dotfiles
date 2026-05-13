@@ -21,4 +21,5 @@ with pkgs; [
   #sherd apps
   firefox
   spotify
+  discord
 ]
