@@ -20,6 +20,9 @@ with pkgs; [
   
   #sherd apps
   firefox
-  spotify
-  discord
+  #spotify
+  #discord
+  tetrio-desktop
+  geogebra
+  #plexamp
 ]

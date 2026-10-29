@@ -6,4 +6,8 @@ shared-packages ++ [
   dockutil
   utm
   unnaturalscrollwheels
+  qbittorrent
+  #anki 
+  #tailscale
+  #prusa-slicer
 ]
